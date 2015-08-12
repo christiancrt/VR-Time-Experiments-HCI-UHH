@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\VerbalTask.cs">
+    <Files>
+      <File FileName="Assets\GameManager.cs" Line="54" Column="3" />
+      <File FileName="Assets\Manager.cs" Line="13" Column="30" />
+      <File FileName="Assets\FeedbackDelegate.cs" Line="6" Column="2" />
+      <File FileName="..\LonelyIsland 3b\Assets\LightVR\SunLevel.cs" Line="388" Column="4" />
+      <File FileName="Assets\VerbalTask.cs" Line="136" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
